@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Yuly Mendoza",
-  title: "Desarrolladora Full Stack en JavaScript",
+  title: "Desarrolladora Full Stack en JavaScript Jr",
   description: "Portfolio website of Yuly Mendoza",
   accentColor: "#cb46e9",
   social: {
@@ -9,13 +9,13 @@ export const siteConfig = {
     github: "https://github.com/yulibet210106",
   },
   aboutMe:
-    "Soy programadora Full Stack con enfoque en JavaScript , apasionada por el desarrollo web. 👩‍💻 Me formé como Desarrolladora Full Stack en JavaScript en Kambcode y actualmente curso la Licenciatura en Sistemas Computacionales en la Universidad Latinoamericana en Línea. 🚀 Mi objetivo es seguir creciendo profesionalmente y aportar valor en proyectos desafiantes ",
+    "Desarrolladora Full Stack Jr apasionada por el ecosistema JavaScript. Actualmente finalizando mi Licenciatura en Sistemas Computacionales y graduada del bootcamp intensivo de Kambcode. ​Mi enfoque está en escribir código limpio y eficiente. Aunque estoy iniciando mi carrera profesional, tengo experiencia práctica creando aplicaciones web responsivas y funcionales. Busco una oportunidad para aplicar mis habilidades en React y Node.js, aprender de un equipo senior y aportar valor desde el primer día.",
   skills: ["Javascript", "HTML5", "CSS3", "React", "Node.js", "Git", "GitHub"],
   projects: [
     {
-      name: "Lista de Tareas",
+      name: "Gestor de Tareas Interactivo (Task App)",
       description:
-        "Lista de Tareas es una herramienta web intuitiva que permite a los usuarios gestionar sus tareas diarias de manera eficiente. Incluye funcionalidades para agregar, eliminar y marcar tareas como completadas, todo en un diseño responsivo que se adapta a cualquier tamaño de pantalla.",
+        "Aplicación web para la gestión eficiente de tareas diarias. Implementación de persistencia de datos (Local Storage) para que el usuario no pierda su información al recargar. Lógica avanzada en JavaScript para manipulación del DOM y diseño responsivo con CSS3.",
       link: "https://yulibet210106.github.io/PROYECTO.A/",
       skills: ["HTML", "CSS", "JavaScript"],
     },
@@ -35,16 +35,6 @@ export const siteConfig = {
     },
   ],
   experience: [
-     {
-      company: "En búsqueda activa de oportunidades",
-      title: "Desarrollador Full Stack en JavaScript",
-      dateRange: "Actualidad",
-      bullets: [
-         "Actualmente en búsqueda de oportunidades para aplicar y expandir mis habilidades en desarrollo de software.",
-         "Entusiasmado por aprender en entornos colaborativos y contribuir a proyectos innovadores.",
-         "Comprometido con la mejora continua y el desarrollo profesional en la industria tecnológica."
-     ],
-    },
     {
       company: "Universidad Latinoamericana en Línea",
       title: "Prácticas Académicas",
@@ -52,29 +42,29 @@ export const siteConfig = {
       bullets: [
         "Participé en un proyecto de desarrollo de Software como parte de mi formación",
         "Colaboré en la creación de una aplicación para la gestión de información académica",
-        "Adquiri habilidades de trabajo en equipo y metodologías ágiles",
+        "Adquirí habilidades de trabajo en equipo y metodologías ágiles",
       ],
     },
   ],
   education: [
     {
       school: "Universidad Latinoamericana en Línea",
-      degree: "Licenciada en informatica",
+      degree: "Licenciatura en Sistemas Computacionales (En Curso)",
       dateRange: "2024 - 2028",
       achievements: [
-        "Continuo en Formación",
-        "Participación en proyectos colaborativos de desarrollo de software",
-        "Contribución en hackatones locales, destacando por soluciones innovadoras",
+        "Formación académica enfocada en fundamentos de ingeniería de software, algoritmos y estructuras de datos.",
+        "Liderazgo en proyectos universitarios colaborativos, aplicando metodologías ágiles para el desarrollo de software.",
+        "Participación activa en hackatones, desarrollando soluciones innovadoras bajo presión de tiempo.",
       ],
     },
     {
       school: "Kambcode",
-      degree: "Desarrollador Full Stack en JavaScript",
+      degree: "Desarrolladora Full Stack en JavaScript",
       dateRange: "2025",
       achievements: [
-        "Completo con exito los cursos de desarrollo web",
-        "Desarrollo mas de 5 projectos prácticos",
-        "Especializado en react y node.js",
+        "Programa intensivo (+400 horas) de formación práctica especializado en el stack MERN (JavaScript, Express, React.js, Node.js).",
+        "Desarrollo y despliegue de más de 5 aplicaciones web completas (SPA), desde la maquetación hasta la integración con bases de datos.",
+        "Especialización técnica en React.js (Hooks, Context API) y Node.js para la construcción de APIs escalables.",
       ],
     },
   ],
