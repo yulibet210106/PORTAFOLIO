@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Yuly Mendoza",
-  title: "Desarrolladora Full Stack en JavaScript Jr",
+  title: "Desarrolladora Full Stack en JavaScript",
   description: "Portfolio website of Yuly Mendoza",
   accentColor: "#cb46e9",
   social: {
@@ -26,23 +26,24 @@ export const siteConfig = {
       link: "https://yulibet210106.github.io/Carrito-de-Compras/",
       skills: ["HTML5", "CSS3", "JavaScript"],
     },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
+  //  {
+  //    name: "ExtensionKit",
+  //    description:
+  //      "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
+  //    link: "https://extensionkit.io/?ref=devportfolio",
+  //    skills: ["React", "Node.js", "AWS"],
+  //  },
   ],
   experience: [
     {
       company: "Universidad Latinoamericana en Línea",
-      title: "Prácticas Académicas",
+      title: "Prácticas Académicas (Portal de seguimiento Estudiantil)",
       dateRange: "2024 - Presente",
       bullets: [
-        "Participé en un proyecto de desarrollo de Software como parte de mi formación",
-        "Colaboré en la creación de una aplicación para la gestión de información académica",
-        "Adquirí habilidades de trabajo en equipo y metodologías ágiles",
+        "Arquitectura de Datos: Organización y consulta de expedientes académicos digitales.",
+        "Interfaz UI/UX: Paneles en HTML5/CSS3 para visualización de progreso estudiantil.",
+        "Interactividad: Filtros de búsqueda dinámica y navegación con JavaScript.",
+        "Validación: Lógica de formularios para garantizar la integridad de la información.",
       ],
     },
   ],
