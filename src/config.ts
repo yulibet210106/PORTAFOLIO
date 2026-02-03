@@ -20,11 +20,11 @@ export const siteConfig = {
       skills: ["HTML", "CSS", "JavaScript"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Carrito de compras con JavaScript original",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Carrito de compras para e-commerce desarrollado con HTML, CSS y JavaScript puro. Permite agregar y eliminar productos, gestionar cantidades y calcular totales en tiempo real. Proyecto enfocado en buenas prácticas, lógica de negocio y manipulación del DOM sin frameworks.",
+      link: "https://yulibet210106.github.io/Carrito-de-Compras/",
+      skills: ["HTML5", "CSS3", "JavaScript"],
     },
     {
       name: "ExtensionKit",
