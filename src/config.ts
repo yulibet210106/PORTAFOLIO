@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "Desarrolladora Full Stack Jr apasionada por el ecosistema JavaScript. Actualmente finalizando mi Licenciatura en Sistemas Computacionales y graduada del bootcamp intensivo de Kambcode. ​Mi enfoque está en escribir código limpio y eficiente. Aunque estoy iniciando mi carrera profesional, tengo experiencia práctica creando aplicaciones web responsivas y funcionales. Busco una oportunidad para aplicar mis habilidades en React y Node.js, aprender de un equipo senior y aportar valor desde el primer día.",
-  skills: ["Javascript", "HTML5", "CSS3", "React", "Node.js", "Git", "GitHub"],
+  skills: ["Javascript", "HTML5", "CSS3", "React.js", "Node.js", "Git", "GitHub"],
   projects: [
     {
       name: "Gestor de Tareas Interactivo (Task App)",
