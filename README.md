@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de cómo podrías redactar la sección que explica el uso de la plantilla y las modificaciones realizadas, manteniendo un tono ético y profesional:
-
----
-
 ### Acerca de Este Proyecto
 
 Este portafolio ha sido creado utilizando la plantilla "DevPortfolio", una solución moderna y minimalista diseñada para desarrolladores, disponible en GitHub. La plantilla fue desarrollada con tecnologías como Astro y Tailwind CSS, lo que permite una personalización rápida y efectiva.
@@ -20,6 +16,3 @@ Quiero expresar mi agradecimiento a los desarrolladores de "DevPortfolio" por pr
 
 Para más detalles sobre la plantilla original, puedes visitar [DevPortfolio en GitHub](https://github.com/RyanFitzgerald/devportfolio).
 
---- 
-
-Asegúrate de ajustar el contenido según tus necesidades personales y la información que desees compartir.
